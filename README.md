@@ -2,7 +2,7 @@
 
 > [!NOTE]  
 > Description 📝:  
-> - Extreme Thermal Killer is a powerful low-level Magisk module that aggressively disables all thermal throttling, kills performance-limiting daemons, and optimizes memory and I/O to unlock maximum performance on Android devices. Ideal for benchmarking, gaming, and performance testing — use with caution.  
+> - Disables Android's thermal limits and manages memory in real-time to maintain consistent performance and system responsiveness.
 <hr/>
 
 > [!IMPORTANT]  
