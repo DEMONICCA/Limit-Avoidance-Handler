@@ -44,11 +44,12 @@
 
 <div align="center">
   If you like my work, please follow me or star my work on GitHub       
-
+ 
   You can also show your concern by donating below.
-</div>
+<div align="center">
+ </div>
 <hr/>
-
+  
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/illumi666)
 [![](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/demonica/tip)
 [![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/DEMONICA)
