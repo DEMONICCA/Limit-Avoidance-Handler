@@ -6,16 +6,15 @@
 
 > [!IMPORTANT]  
 > Features ✨:  
-> 1. Force-stops all thermal services and halts thermal daemons (thermal-engine, vendor.thermal, etc.). ✔️
+> 1. Terminates all thermal services and halts related daemons (e.g., thermal-engine, vendor.thermal). ✔️
 > 2. Overrides all trip point temperatures and sets permanent "no-cooler" flags. ✔️
 > 3. Kills background apps and non-essential user processes in real-time. ✔️ 
 > 4. Disables all GPU and CPU thermal throttling via /proc, /sys, and resetprop. ✔️
 > 5. Clears all logs, crash dumps, tombstones, and dalvik cache for a clean state. ✔️
 > 6. Triggers memory optimization with drop_caches, compact_memory, and zRAM reset. ✔️
 > 7. Forces fstrim on key partitions to improve I/O latency. ✔️
-> 8. Applies chmod 444 to thermal nodes to lock thermal policies in place. ✔️
-> 9. Forces reset of thermal-related properties using resetprop across the system. ✔️
-> 10. Restores control over CPU max frequencies on big cores for performance boost. ✔️
+> 8. Forces reset of thermal-related properties using resetprop across the system. ✔️
+> 9. Restores control over CPU max frequencies on big cores for performance boost. ✔️
 <hr/>
 
 > [!TIP]
