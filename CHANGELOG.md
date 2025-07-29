@@ -2,6 +2,20 @@
 > - All significant changes to this project will be documented here.
 ---
 
+> [2.0.0]
+>
+> - Added a little code in `uninstall.sh`.
+> - Fixed a stubborn temperature sensor value.
+> - Removes duplicate commands in the code.
+> - Added some mount points to `FSTRIM`. for better improvement.
+> - Drop caches 3x, compact memory, looser overcommit.
+> - Kill processes more optimally for more stable performance.
+> - Added LMK & process_reclaim optimizations to make things a bit better.
+> - Now `ZRAM` is made more dynamic for `4,6,8` ram users and a little quality improvement.
+> - Add module banner for KernelSU Next.
+> - A slight performance improvement with this change could be even better.
+---
+
 > [1.0.0]
 >
 > - Initial Release  
