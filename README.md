@@ -6,15 +6,21 @@
 
 > [!IMPORTANT]  
 > Features ✨:  
-> 1. Terminates all thermal services and halts related daemons (e.g., thermal-engine, vendor.thermal). ✔️
-> 2. Overrides all trip point temperatures and sets permanent "no-cooler" flags. ✔️
-> 3. Kills background apps and non-essential user processes in real-time. ✔️ 
-> 4. Disables all GPU and CPU thermal throttling via /proc, /sys, and resetprop. ✔️
-> 5. Clears all logs, crash dumps, tombstones, and dalvik cache for a clean state. ✔️
-> 6. Triggers memory optimization with drop_caches, compact_memory, and zRAM reset. ✔️
-> 7. Forces fstrim on key partitions to improve I/O latency. ✔️
-> 8. Forces reset of thermal-related properties using resetprop across the system. ✔️
-> 9. Restores control over CPU max frequencies on big cores for performance boost. ✔️
+> 1. Advanced thermal service termination with comprehensive detection algorithms covering MediaTek, Qualcomm, and generic Android implementations. ✔️
+> 2. Dynamic thermal trip point reconfiguration with intelligent no-cooler policy enforcement across all thermal zones. ✔️
+> 3. Intelligent background process management with selective termination preserving critical system UI components. ✔️ 
+> 4. Complete thermal throttling bypass for GPU and CPU subsystems via multi-layer control interface manipulation. ✔️
+> 5. Comprehensive system cleanup including logs, crash dumps, tombstones, and dalvik cache with automated maintenance scheduling. ✔️
+> 6. Advanced memory optimization featuring adaptive ZRAM configuration, LZ4 compression, and intelligent cache management algorithms. ✔️
+> 7. Multi-partition filesystem trim operations covering system, vendor, product, and metadata for enhanced I/O performance. ✔️
+> 8. Secure thermal node permission management with write-protection mechanisms to prevent policy override. ✔️
+> 9. System-wide thermal property reset using resetprop with comprehensive coverage of vendor and OEM-specific implementations. ✔️
+> 10. Adaptive CPU frequency management with big core optimization and PPM policy manipulation for maximum performance delivery. ✔️
+> 11. Enhanced low memory killer tuning with adaptive mechanisms and process reclaim optimization for superior memory pressure handling. ✔️
+> 12. Intelligent ZRAM sizing based on system memory capacity with performance-optimized compression algorithms and queue management. ✔️
+> 13. Advanced virtual memory subsystem tuning including watermark scaling and swap optimization for improved system responsiveness. ✔️
+> 14. Graceful process termination protocols with SIGTERM/SIGKILL sequencing and process priority adjustment for system stability. ✔️
+> 15. Real-time thermal monitoring suppression with comprehensive HAL service management and daemon control mechanisms. ✔️
 <hr/>
 
 > [!TIP]
