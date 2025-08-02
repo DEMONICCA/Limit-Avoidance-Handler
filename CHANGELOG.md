@@ -18,6 +18,8 @@
 > - Advanced process reclaim parameters including pressure thresholds and swap efficiency controls.
 > - Refined process killing logic to preserve essential system UI components while terminating unnecessary background processes.
 > - Adding `system.prop` and a little update to `uninstall.sh` might make things a little better.
+> - Add notifications with a combination of icons.
+> - Add module banner for KernelSU Next.
 > - Enhanced error checking and file existence validation throughout the script execution.
 > - Code refactoring for better execution efficiency and reduced system overhead during thermal management operations.
 ---
