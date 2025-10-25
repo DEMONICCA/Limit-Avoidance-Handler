@@ -1,0 +1,7 @@
+id=LAH
+name=Limit Avoidance Handler
+version=3.0.0
+versionCode=300
+author=@illumi
+description=Disables Android's thermal limits and manages memory in real-time to maintain consistent performance and system responsiveness.
+banner=https://raw.githubusercontent.com/DEMONICCA/Limit-Avoidance-Handler/refs/heads/main/LAH.jpg
